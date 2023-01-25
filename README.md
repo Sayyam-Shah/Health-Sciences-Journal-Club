@@ -1,6 +1,6 @@
 # BioHealth-and-Health-Sciences-Journal-Club
 
-**Organizer**: Faculty of Health (mailto:s284shah@uwaterloo.ca)
+**Organizer**: Faculty_of_Health (mailto:s284shah@uwaterloo.ca)
 
  [RSVP](https://forms.gle/id9nX5baKVeW47TW6)
 
