@@ -1,10 +1,27 @@
 # BioHealth-and-Health-Sciences-Journal-Club
 
-**Organizer**: Faculty_of_Health (mailto:s284shah@uwaterloo.ca)
+**Organizer**: [Faculty of Health - Dr. Narveen Jandu, Dr. John Mielke, Dr. Diane Williams, Sayyam Shah, Manhar Sasan](mailto:s284shah@uwaterloo.ca)
 
- [RSVP](https://forms.gle/id9nX5baKVeW47TW6)
+ [RSVP Here](https://forms.gle/id9nX5baKVeW47TW6)
 
-## Presentations (Winter 2023)
+#About Us
+
+#The UW BioHealth and Health Sciences Journal Club comprises of faculty (Dr. Narveen Jandu, Dr. John Mielke, Dr. Diane Williams) and students to create an open space for journal article discussion!
+
+#No experience is needed to participate! Just a curiosity for science!
+
+#Expectations
+
+#- Members are expected to read the paper before the journal club as an important part of participation in the club.
+#- Have fun!
+
+#Our Vision
+
+#- Create an open space to meet new people and professors in the Faculty of Health!
+#- Provide mentorship directly from faculty members!
+#- Inspire the future of BioHealth researchers!
+
+## Journal Club Presentations (Winter 2023)
 
 
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
@@ -13,4 +30,4 @@
 
 
 ## Time
-3:00 - 4:30 Tuesday.
+3:00 - 4:00 Tuesday.
