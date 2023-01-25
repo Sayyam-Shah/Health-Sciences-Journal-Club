@@ -13,7 +13,7 @@ No experience is needed to participate! Just a curiosity for science!
 ## Our Vision
 
 - Create an open space to meet new people and professors in the Faculty of Health!
-- Recieve directly from faculty members!
+- Recieve mentorship directly from faculty members!
 - Inspire the future of BioHealth researchers!
 
 ## Expectations
