@@ -24,7 +24,7 @@ No experience is needed to participate! Just a curiosity for science!
 ## Journal Club Presentations (Winter 2023)
 
 
-|Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
+|Date| Topic | Presenter| Location | Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 7 February 2023 |Clonal Hematopoiesis ([Paper](https://www.nejm.org/doi/full/10.1056/nejmoa1408617)) |[Sayyam Shah](mailto:s284shah@uwaterloo.ca) | Faculty of Health (LHN 1646)|[Slides]|
 
