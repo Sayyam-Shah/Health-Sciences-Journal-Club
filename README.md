@@ -18,7 +18,7 @@ No experience is needed to participate! Just a curiosity for science!
 
 ## Expectations
 
-- Members are expected to read the paper before the journal club as an important part of participation in the club.
+- Members are expected to read the paper before the meeting as an important part of participation and strengthen discussion.
 - Have fun!
 
 ## Journal Club Presentations (Winter 2023)
