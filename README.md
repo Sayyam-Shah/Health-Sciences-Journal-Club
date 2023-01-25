@@ -4,22 +4,22 @@
 
  [RSVP Here](https://forms.gle/id9nX5baKVeW47TW6)
 
-#About Us
+## About Us
 
-#The UW BioHealth and Health Sciences Journal Club comprises of faculty (Dr. Narveen Jandu, Dr. John Mielke, Dr. Diane Williams) and students to create an open space for journal article discussion!
+The UW BioHealth and Health Sciences Journal Club comprises of faculty (Dr. Narveen Jandu, Dr. John Mielke, Dr. Diane Williams) and students to create an open space for journal article discussion!
 
-#No experience is needed to participate! Just a curiosity for science!
+No experience is needed to participate! Just a curiosity for science!
 
-#Expectations
+## Our Vision
 
-#- Members are expected to read the paper before the journal club as an important part of participation in the club.
-#- Have fun!
+- Create an open space to meet new people and professors in the Faculty of Health!
+- Provide mentorship directly from faculty members!
+- Inspire the future of BioHealth researchers!
 
-#Our Vision
+## Expectations
 
-#- Create an open space to meet new people and professors in the Faculty of Health!
-#- Provide mentorship directly from faculty members!
-#- Inspire the future of BioHealth researchers!
+- Members are expected to read the paper before the journal club as an important part of participation in the club.
+- Have fun!
 
 ## Journal Club Presentations (Winter 2023)
 
