@@ -1,6 +1,6 @@
 # BioHealth-and-Health-Sciences-Journal-Club
 
-**Organizer**: [Faculty of Health - Dr. Narveen Jandu, Dr. John Mielke, Dr. Diane Williams, Sayyam Shah, Manhar Sasan](mailto:s284shah@uwaterloo.ca)
+**Organizer**: [Faculty of Health - Sayyam Shah, Manhar Sasan, Dr. John Mielke, Dr. Diane Williams, Dr. Narveen Jandu](mailto:njandu@uwaterloo.ca)
 
  [RSVP Here](https://forms.gle/id9nX5baKVeW47TW6)
 
