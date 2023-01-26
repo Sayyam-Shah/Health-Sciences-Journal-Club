@@ -10,6 +10,8 @@ The UW BioHealth and Health Sciences Journal Club comprises of faculty (Dr. Narv
 
 No experience is needed to participate! Just a curiosity for science!
 
+Refreshments will be provided!
+
 ## Our Vision
 
 - Create an open space to meet new people and professors in the Faculty of Health!
