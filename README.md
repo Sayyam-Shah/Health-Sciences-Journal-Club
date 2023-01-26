@@ -17,6 +17,7 @@ Refreshments will be provided!
 - Create an open space to meet new people and professors in the Faculty of Health!
 - Recieve mentorship directly from faculty members!
 - Inspire the future of BioHealth researchers!
+- Reduce inequality in Science.
 
 ## Expectations
 
