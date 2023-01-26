@@ -1,4 +1,4 @@
-# BioHealth-and-Health-Sciences-Journal-Club
+# BioHealth and Health Sciences Journal Club
 
 **Organizer**: [Faculty of Health - Sayyam Shah, Manhar Sasan, Ran Chen, Dr. John Mielke, Dr. Diane Williams, Dr. Narveen Jandu](mailto:njandu@uwaterloo.ca)
 
