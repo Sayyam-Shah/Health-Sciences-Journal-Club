@@ -29,7 +29,7 @@ Light refreshments will be provided!
 
 |Date| Topic | Presenter| Location | Slides | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-| 7 February 2023 |Clonal Hematopoiesis ([Paper](https://www.nejm.org/doi/full/10.1056/nejmoa1408617)) |[Sayyam Shah](mailto:s284shah@uwaterloo.ca) | Faculty of Health (LHN 1646)|[Slides]|
+| 7 February 2023 |Clonal Hematopoiesis ([Paper](https://www.nejm.org/doi/full/10.1056/nejmoa1408617)) |[Sayyam Shah](mailto:s284shah@uwaterloo.ca) | Faculty of Health (LHN 2216)|[Slides]|
 
 
 ## Time
