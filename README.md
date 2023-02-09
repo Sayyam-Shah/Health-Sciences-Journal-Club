@@ -3,6 +3,7 @@
 **Organizer**: [Faculty of Health - Sayyam Shah, Manhar Sasan, Ran Chen, Dr. John Mielke, Dr. Diane Williams, Dr. Narveen Jandu](mailto:njandu@uwaterloo.ca)
 
  [RSVP Here](https://forms.gle/id9nX5baKVeW47TW6)
+ 
  [Member Availability](https://lettucemeet.com/l/O1rql)
 ## About Us
 
