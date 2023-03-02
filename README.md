@@ -31,7 +31,7 @@ Light refreshments will be provided!
 |Date| Topic | Presenter| Location | Slides | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 7 February 2023 |Clonal Hematopoiesis ([Paper](https://www.nejm.org/doi/full/10.1056/nejmoa1408617)) |[Sayyam Shah](mailto:s284shah@uwaterloo.ca) | Faculty of Health (LHN 2216)|[Slides](https://drive.google.com/file/d/18EFHjOdcSqa11FU7wyf2UFXEGs-EkQpJ/view?usp=sharing)|
-| 7 March 2023 | Psychology ([Paper1](https://www.jneurosci.org/content/34/50/16567)) ([Supplement](https://theconversation.com/the-real-reason-some-people-become-addicted-to-drugs-81004)) | [Manhar Sasan](mailto:mssasan@uwaterloo.ca)  | Faculty of Health (LHN 2216)| [Slides]|
+| 7 March 2023 | Psychology ([Paper](https://www.jneurosci.org/content/34/50/16567)) ([Supplement](https://theconversation.com/the-real-reason-some-people-become-addicted-to-drugs-81004)) | [Manhar Sasan](mailto:mssasan@uwaterloo.ca)  | Faculty of Health (LHN 2216)| [Slides]|
 
 ## Time
 3:00 - 4:00 Tuesday.
