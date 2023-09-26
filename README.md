@@ -16,16 +16,14 @@ Light refreshments will be provided!
 ## Our Vision
 
 - Create an open space to meet new people and professors in the Faculty of Health!
-- Recieve mentorship directly from faculty members!
-- Inspire the future of BioHealth researchers!
-- Reduce inequality in Science.
+- Inspire the future of Health Science researchers!
 
 ## Expectations
 
 - Members are expected to read the paper before the meeting as an important part of participation and strengthen discussion.
 - Have fun!
 
-## Journal Club Presentations (Winter 2023)
+## Journal Club Presentations
 
 
 |Date| Topic | Presenter| Location | Slides | 
