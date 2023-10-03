@@ -1,6 +1,6 @@
 # BioHealth and Health Sciences Journal Club
 
-**Organizer**: [Faculty of Health - Sayyam Shah, Manhar Sasan](mailto:sayyam.n.shah@gmail.com)
+**Organizer**: [Faculty of Health - Sayyam Shah](mailto:sayyam.n.shah@gmail.com)
 
  [RSVP Here](https://forms.gle/id9nX5baKVeW47TW6)
  
