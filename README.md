@@ -37,4 +37,4 @@ Light refreshments will be provided!
 | 1 December 2023 | TBD | TBD| Faculty of Health (LHN 2216)| TBD |
 
 ## Time
-3:00 - 4:00 Tuesday.
+3:00 - 4:00 Friday.
