@@ -2,7 +2,7 @@
 
 **Organizer**: [Faculty of Health - Sayyam Shah](mailto:sayyam.n.shah@gmail.com)
 
- [RSVP Here](https://forms.gle/id9nX5baKVeW47TW6)
+ [RSVP Here](https://forms.gle/PUFZjytCFHGWr5uKA)
  
 
 ## About Us
