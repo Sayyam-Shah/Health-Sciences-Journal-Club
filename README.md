@@ -38,5 +38,5 @@ Light refreshments will be provided!
 | 1 December 2023 | TBD | TBD| Faculty of Health (BMH 2216)| [Slides] |
 
 ## Time
-3:00 - 4:00 Friday.
+2:00 - 2:00 Friday.
 Room: BMH-2216
