@@ -33,7 +33,7 @@ Light refreshments will be provided!
 | 7 March 2023 | Psychology ([Paper](https://www.jneurosci.org/content/34/50/16567)) ([Supplement](https://theconversation.com/the-real-reason-some-people-become-addicted-to-drugs-81004)) | [Manhar Sasan](mailto:mssasan@uwaterloo.ca)  | Faculty of Health (LHN 2216)| [Slides]|
 | 28 March 2023 | Neuroscience ([Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7788465/)) | [Ran Chen](mailto:r359chen@uwaterloo.ca) & [Cathleen Blanchard](mailto:cblanchard@uwaterloo.ca) | Faculty of Health (LHN 2216)| [Slides]|
 | 27 October 2023 | Clonal Hematopoiesis ([Paper](https://www.nature.com/articles/s41591-022-01708-3)) | [Sayyam Shah](mailto:s284shah@uwaterloo.ca)| Faculty of Health (BMH 2216)| [Slides] |
-| 3 November 2023 | TBD | [Asher Wiggins](mailto:asher.wiggins@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
+| 3 November 2023 | PCOS ([Paper](https://www.nature.com/articles/s41467-020-19003-5)) | [Asher Wiggins](mailto:asher.wiggins@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
 | 17 November 2023 | TBD | TBD| Faculty of Health (BMH 2216)| [Slides] |
 | 1 December 2023 | TBD | TBD| Faculty of Health (BMH 2216)| [Slides] |
 
