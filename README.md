@@ -1,4 +1,4 @@
-# BioHealth and Health Sciences Journal Club
+# Health Sciences Journal Club
 
 **Organizer**: [Faculty of Health - Sayyam Shah](mailto:sayyam.n.shah@gmail.com)
 
@@ -8,7 +8,7 @@
 
 ## About Us
 
-The UW BioHealth and Health Sciences Journal Club comprises of faculty and students to create an open space for journal article discussion! Scientific papers are an age old tradition and the primary mechanism for scientific communication. Students will discuss key areas in the health sciences by reading and discussing scientific literature under the supervision of a faculty member.  
+The Health Sciences Journal Club comprises of faculty and students to create an open space for journal article discussion! Scientific papers are an age old tradition and the primary mechanism for scientific communication. Students will discuss key areas in the health sciences by reading and discussing scientific literature under the supervision of a faculty member.  
 
 No experience is needed to participate! Just a curiosity for science!
 
