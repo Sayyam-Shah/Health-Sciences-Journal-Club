@@ -41,5 +41,5 @@ Light refreshments will be provided!
 | 29 March 2024 | NA | NA | Faculty of Health (BMH 2216)| [Slides] |
 
 ## Time
-2:00 - 3:00 Friday.
+3:00 - 4:00 Friday.
 Room: BMH-2216
