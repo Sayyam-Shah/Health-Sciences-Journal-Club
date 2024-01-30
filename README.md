@@ -35,7 +35,7 @@ Light refreshments will be provided!
 | 27 October 2023 | Clonal Hematopoiesis ([Paper](https://www.nature.com/articles/s41591-022-01708-3)) | [Sayyam Shah](mailto:s284shah@uwaterloo.ca)| Faculty of Health (BMH 2216)| [Slides] |
 | 3 November 2023 | PCOS ([Paper](https://www.nature.com/articles/s41467-020-19003-5)) | [Asher Wiggins](mailto:asher.wiggins@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
 | 17 November 2023 | Mental Health ([Paper](https://www.amandabluezheutlin.com/2018_LP_MDDExerciseBRFSS.pdf)) | [Rajnandini Ganguli](mailto:r3ganguli@uwaterloo.ca)| Faculty of Health (BMH 2216)| [Slides] |
-| 2 February 2024 | NA | [Cathleen Blanchard](mailto:cblanchard@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
+| 2 February 2024 | Pregnancy and Nutrition ([Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7013905/pdf/ijerph-17-00638.pdf)) | [Ran Chen](mailto:r359chen@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
 | 1 March 2024 | NA | NA | Faculty of Health (BMH 2216)| [Slides] |
 | 15 March 2024 | NA | NA | Faculty of Health (BMH 2216)| [Slides] |
 | 29 March 2024 | NA | NA | Faculty of Health (BMH 2216)| [Slides] |
