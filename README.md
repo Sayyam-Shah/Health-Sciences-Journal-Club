@@ -17,6 +17,7 @@ Light refreshments will be provided!
 ## Our Vision
 
 - Create an open space to meet new people and professors in the Faculty of Health!
+- Mentor faculty of health students in the critical analysis of a scientific paper and to promote science literacy! 
 - Inspire the future of Health Science researchers!
 
 ## Expectations
