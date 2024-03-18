@@ -39,7 +39,7 @@ Light refreshments will be provided!
 | 2 February 2024 | Pregnancy and Nutrition ([Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7013905/pdf/ijerph-17-00638.pdf)) | [Ran Chen](mailto:r359chen@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
 | 1 March 2024 | Prenatal Alcohol Exposure ([Paper](https://onlinelibrary-wiley-com.proxy.lib.uwaterloo.ca/doi/full/10.1111/acer.13495)) | [Rajnandini Ganguli](mailto:r3ganguli@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
 | 15 March 2024 | Eating Disorders ([Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7871942/)) | [Cathleen Blanchard](mailto:cblanchard@uwaterloo.ca) | Faculty of Health (BMH 2216)| [Slides] |
-| 29 March 2024 | NA | NA | Faculty of Health (BMH 2216)| [Slides] |
+| 5 April 2024 | NA | NA | Faculty of Health (BMH 2216)| [Slides] |
 
 ## Time
 3:00 - 4:00 Friday.
